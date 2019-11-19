@@ -1,0 +1,12 @@
+
+
+
+#text {
+    -fx-font-size: 24px;
+	-fx-font-family: Impact;	
+}
+
+#cell {
+	-fx-border-color: black;
+	-fx-background-image: url("cobblestone.png");
+}
